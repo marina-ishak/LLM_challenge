@@ -1,0 +1,14 @@
+numpy
+scipy
+librosa>=0.10.0
+soundfile
+sounddevice
+matplotlib
+seaborn
+scikit-learn
+tensorflow>=2.10
+jupyter
+ipykernel
+pytest
+pytest
+
