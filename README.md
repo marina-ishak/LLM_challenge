@@ -520,7 +520,7 @@ During the development of this project, we faced several technical challenges th
 
 ## � Future Development Plans
 
-### Short-term Improvements (3-6 months)
+### Short-term Improvements
 
 1. **Enhanced Data Augmentation**
    - Add background noise augmentation during training
@@ -559,7 +559,7 @@ During the development of this project, we faced several technical challenges th
    - Mobile app development
    - API service with REST endpoints
 
-### Long-term Vision (12+ months)
+### Long-term Vision 
 
 1. **Extended Functionality**
    - Full spoken number recognition (not just single digits)
